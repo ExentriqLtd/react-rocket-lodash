@@ -1,0 +1,23 @@
+{
+  "name": "rocket-lodash",
+  "version": "1.0.3",
+  "description": "Utility functions for formatting code. Inspired by lodash library.",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "lodash"
+  ],
+  "author": "bitrocket.dev",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^3.8.3"
+  },
+  "repository": {
+    "url": "https://github.com/bitRocket-dev/rocket-lodash"
+  },
+  "dependencies": {
+    "fast-memoize": "^2.5.2"
+  }
+}
